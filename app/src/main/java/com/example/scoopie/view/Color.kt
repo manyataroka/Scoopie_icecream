@@ -1,4 +1,4 @@
-package com.example.scoopie.ui.theme
+package com.example.scoopie.view
 
 import androidx.compose.ui.graphics.Color
 

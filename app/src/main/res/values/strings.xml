@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Scoopie</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="title_activity_updatee_product">UpdateeProductActivity</string>
 </resources>

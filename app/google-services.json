@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "752189248108",
+    "firebase_url": "https://scoopie-d3d2b-default-rtdb.firebaseio.com",
+    "project_id": "scoopie-d3d2b",
+    "storage_bucket": "scoopie-d3d2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752189248108:android:e0311e99953c84863cbe49",
+        "android_client_info": {
+          "package_name": "com.example.scoopie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lT-D_jY0yPJCG9a3vOQfzq51xFdewoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
