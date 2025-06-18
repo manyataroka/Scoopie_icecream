@@ -12,8 +12,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Scoopie"
         tools:targetApi="31">
+
         <activity
-            android:name=".view.UpdateeProductActivity"
+            android:name=".view.ForgetPasswordActivity"
+            android:exported="true"
+            android:label="Forgot Password"
+            android:theme="@style/Theme.Scoopie" />
+        <activity
+            android:name=".view.UpdateProductActivity"
             android:exported="true"
             android:label="@string/title_activity_updatee_product"
             android:theme="@style/Theme.Scoopie">

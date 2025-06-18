@@ -73,10 +73,10 @@ fun SplashBody() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-//            Image(
-//                painterResource(R.drawable.img),
-//                contentDescription = null
-//            )
+            Image(
+                painterResource(R.drawable.scoopielogo),
+                contentDescription = null
+            )
             Spacer(modifier = Modifier.height(10.dp))
             CircularProgressIndicator()
         }
